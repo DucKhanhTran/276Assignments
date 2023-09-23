@@ -1,0 +1,4 @@
+Name: John Doe. Email: jone@sfu.ca. Student ID: 123456789
+Name: Jane Smith. Email: jane@sfu.ca. Student ID: 987654321
+Name: Alice Johnson. Email: alice@sfu.ca. Student ID: 213476589. Grade: A
+Name: Bob Wilson. Email: bob@sfu.ca. Student ID: 986745231. Grade: B
